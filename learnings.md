@@ -45,3 +45,10 @@ Git is a popular version control system. It was created by Linus Torvalds in 200
 👉GitHub makes tools that use Git.
 👉GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
 👉In this tutorial, we will focus on using Git with GitHub.
+
+
+#2 more things about what i learned
+
+1.Learned how to contribute
+
+1.Learned how to Collaborators
