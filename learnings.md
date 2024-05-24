@@ -47,8 +47,8 @@ Git is a popular version control system. It was created by Linus Torvalds in 200
 👉In this tutorial, we will focus on using Git with GitHub.
 
 
-#2 more things about what i learned
+# 2 more of your learnings
 
 1.Learned how to contribute
 
-1.Learned how to Collaborators
+2.Learned how to Collaborators
